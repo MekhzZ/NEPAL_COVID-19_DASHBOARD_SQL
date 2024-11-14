@@ -20,3 +20,4 @@ The SQL query file is used to extract relevant data for visualization is include
 
 ## Workflow
 
+![workflow](workflow.png)
